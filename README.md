@@ -1,2 +1,15 @@
 # DataStructure
-자료구조 문제풀이
+
+## About
+```
+* Queue
+* Stack
+* List
+* ArrayList
+* LinkedList
+  - doubleLinkedList
+  - LinkedStackType
+  - LinkedQueueType
+  - LinkedTreeType
+```
+#### to be continued :0
